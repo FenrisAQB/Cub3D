@@ -1,0 +1,13 @@
+NO                                     ./textures/test/red_brick.xpm
+EA ./textures/test/eagle.xpm
+SO ./textures/test/eagle.xpm
+WE ./textures/test/red_brick.xpm
+
+F 0,220,0
+C 0,0,220
+
+        1111111111111111
+        1000100010000001
+        1000000001000001
+        100010N000000101
+        1111111111111111
