@@ -23,7 +23,8 @@ You can try out the other maps, or modify them to play around with it :
 - By changing the RGB color codes for F/C (Floor and Ceiling colors)
 - By changing the map layout
   - !No empty lines in the map or missing walls enclosing the map
-  - '1' is a wall, '0' is an empty space and 'N/S/W/E' are the player's starting orientation \
+  - '1' is a wall, '0' is an empty space and 'N/S/W/E' are the player's starting orientation
+
 As for the keybinds :
 - W/A/S/D to move around
 - Left/Right arrow, Q/E or the mouse cursor to rotate the view
