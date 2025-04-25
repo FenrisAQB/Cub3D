@@ -30,5 +30,5 @@ As for the keybinds :
 - M to display the map
 
 # Credit
-- Once again after our Minishell project [Minishell](https://github.com/FenrisAQB/Minishell), a huge thanks to my teammate [CDRX](https://github.com/CDRX2). \
+- Once again after our Minishell project [Minishell](https://github.com/FenrisAQB/Minishell), a huge thanks to my teammate [CDRX](https://github.com/CDRX2).
 - I mainly used this ressource for the raycasting part : [Lode's Computer Graphics Tutorial - Raycasting](https://lodev.org/cgtutor/raycasting.html)
